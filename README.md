@@ -1,24 +1,65 @@
-# Netflix UI Clone
+# 🎬 Netflix UI Clone
 
-## Live Demo
-(https://numanbalik-web.github.io/netflix-clone/)
+A modern and responsive Netflix clone built from scratch using HTML and CSS as part of my web development training at Udemig Software Academy.
 
-This project is a **Netflix-inspired UI clone** developed as part of my web development training.
-The goal is to practice **HTML/CSS fundamentals**, layout building, and clean project structure.
+![Netflix Clone Preview](screenshots/demo-netflix.gif)
 
-> ⚠️ Educational purpose only. Not affiliated with Netflix.
+---
 
-## Technologies
-- HTML5
-- CSS3
+## 📋 About The Project
 
-## Screenshots
-![Screen 1](screenshots/screen1.png)
-![Screen 2](screenshots/screen2.png)
-![Screen 3](screenshots/screen3.png)
+This project is a **fully responsive** web application inspired by the real Netflix interface. The goal is to practice modern web design techniques and responsive layout principles.
 
-![Full Page](netflix-fullscreen.png)
+⚠️ **Educational purpose only. Not affiliated with Netflix.**
 
+---
 
-## Demo Video
+## ✨ Features
 
+- 🎨 Modern Netflix-inspired design
+- 📱 Fully responsive (works on all devices)
+- 🎯 Hover effects and smooth transitions
+- 🖼️ Movie posters grid layout
+- 📺 Eye-catching hero section
+- 🎭 Category-based movie lists
+
+---
+
+## 🛠️ Technologies Used
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Technical Details:**
+- HTML5 semantic tags
+- CSS3 Flexbox & Grid
+- CSS Custom Properties (Variables)
+- Media Queries (Responsive Design)
+- Hover & Transition effects
+
+---
+
+## 📸 Screenshots
+
+### Homepage
+![Hero Section](screenshots/screen1.png)
+
+### Movie Categories
+![Categories](screenshots/screen2.png)
+
+### Responsive Design
+![Mobile View](screenshots/screen3.png)
+
+---
+
+## 🚀 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/numanbalik-web/netflix-clone.git
+
+# Navigate to directory
+cd netflix-clone
+
+# Open index.html in browser
+open index.html
